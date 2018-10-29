@@ -33,7 +33,7 @@ public class Input {
           arr[3] = scan.nextLine();
           arr[4] = scan.nextLine();
           
-          out.printf("%s %s %s %s %s", arr[0], arr[1], arr[2], arr[3], arr[4]);
+          out.printf("%s %s %s %s %s\n", arr[0], arr[1], arr[2], arr[3], arr[4]);
           
           
           
